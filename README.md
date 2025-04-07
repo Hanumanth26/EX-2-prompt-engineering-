@@ -126,8 +126,7 @@ Importance of User Framing: Proper prompt structuring leads to clearer, more eng
 
 Real-World Relevance: Thoughtful prompt design can greatly improve the reliability and usefulness of AI tools in practical scenarios.
 
-OUTPUT
+# OUTPUT
 This experiment confirms that prompt clarity plays a vital role in determining AI output quality. Structured and refined prompts lead to more relevant, in-depth, and precise responses—emphasizing the need for effective prompt engineering in AI interactions.
-
-RESULT
+## RESULT
 A comparative analysis underscoring how refined prompting patterns significantly elevate the quality and relevance of AI-generated responses, highlighting prompt design as a critical factor in optimizing AI performance.
